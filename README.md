@@ -9,6 +9,7 @@ Stocks outperformed in 2017 but underperformed in 2018. The refactored script ex
 <img width="593" alt="Screen Shot 2021-08-27 at 3 09 12 PM" src="https://user-images.githubusercontent.com/88211298/131194142-feda83d8-28af-4f69-951a-1fef7fbcd5bc.png">
 <img width="589" alt="Screen Shot 2021-08-27 at 3 16 56 PM" src="https://user-images.githubusercontent.com/88211298/131194144-f655d2a4-96c2-44e8-8a5b-bc9b24b0bbcf.png">
 <img width="590" alt="Screen Shot 2021-08-27 at 3 17 07 PM" src="https://user-images.githubusercontent.com/88211298/131194145-10e0bc57-ec0b-41f0-88d9-7ee81e9669c2.png">
+
 The time decreases due to the method I used for refactored is I only loop the whole sheet only once (for i= 2 to RowsCount), but the original script has nested loop for each tick and go over and over again to loop the whole sheet (for i=0 to 11| for j=2 to RowsCount).<img width="698" alt="Screen Shot 2021-08-27 at 3 14 41 PM" src="https://user-images.githubusercontent.com/88211298/131195583-d209cddd-1e87-4148-899e-ef9a932a7d75.png">
 
 ## Summary
